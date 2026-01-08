@@ -1,6 +1,4 @@
-numpy
-pillow
-scikit-learn
+
 import streamlit as st
 import numpy as np
 from PIL import Image
